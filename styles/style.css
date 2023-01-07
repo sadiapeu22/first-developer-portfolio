@@ -88,3 +88,120 @@ height: 809px;
     list-style: none;
     margin-left:803px ;
 }
+/* my plan */
+.my-plan{
+    margin-top:130px ;
+    text-align: center;
+    color: #151414;
+   
+}
+.skills-container{
+    display: flex;
+    gap: 24px;
+}
+.section-title{
+    font-weight: 700;
+    font-size: 30px;
+    color: #151414;
+}
+/* skill */
+
+.skill{
+    margin-top: 45px;
+    width: 1141px;
+    height: 299.96px; 
+
+}
+.skill-title{
+    font-weight: 700;
+    font-size: 30px;
+    color: #151414;
+}
+.skill-description{
+    font-weight: 500;
+    font-size: 25px;
+    text-align: center;
+    color: #737272;
+    margin-top: 16px;
+}
+/* call-now */
+
+.call-now{
+    margin-top: 124px;
+    width: 1140px;
+    height: 300px;
+    background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%); 
+    
+}
+.motivation{
+    font-weight: 700;
+    font-size: 40px;
+    color: #FFFFFF;
+    padding-top: 65px;
+    padding-left: 64px;
+    padding-right:600px ;
+
+}
+.button1{
+    margin: 17px;
+    margin-left: 64px; 
+    width: 160px;
+    height: 64px;
+}
+/* contact style */
+.footer{
+    width: 1600px;
+    height: 577px;
+    background-color: #151414;
+}
+.contact{
+    display: flex;
+    color: #FFFFFF;
+    margin-left: 200px;
+    gap: 330px;
+}
+.section-style{
+    padding-top: 130px;
+    font-weight: 700;
+    font-size: 45px;
+}
+.section-details{
+    margin-top: 16px;
+    width: 485px;
+    height: 78px;
+    font-size: 16px;
+}
+.email{
+    padding-top: 24px; 
+    width: 184px;
+    height: 26px;
+}
+.phone{
+    padding-top: 16px;
+    padding-bottom: 30px;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.section-style1{
+    padding-top: 130px;
+    padding-right: 400px;
+    font-weight: 600;
+    font-size: 25px;
+    color: #FFFFFF;
+
+}
+
+input{
+    background-color:black ;
+    color: #FFFFFF;
+    margin-top: 31px;
+    padding: 21px 140px 22px 28px ;    
+}
+.subscribe{
+    margin-top: 16px;
+    font-weight: 600;
+    font-size: 20px;
+    padding: 20px 26px 20px 36px;
+    color: #F15B22;
+}
