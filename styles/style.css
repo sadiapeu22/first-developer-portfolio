@@ -52,7 +52,7 @@ height: 809px;
    
    background-image: url('../person.png');
   background-repeat: no-repeat;
-  margin-left: 150px;
+  padding-left: 150px;
   margin-top: 130px;
 
    
@@ -63,7 +63,7 @@ height: 809px;
     text-align: right;
     width: 288px;
     height: 94px;
-    margin-left: 770px;
+    padding-left: 770px;
     padding-top: 300px;
 }
 .banner2-description{
